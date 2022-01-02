@@ -1,1 +1,4 @@
-# portfolio-project
+## Этот простой preloader [посмотрите сами](https://katadu.github.io/portfolio-project/) создан с помощью:
+- четырёх цветовых оттенков
+- анимации
+- располагается по центру
